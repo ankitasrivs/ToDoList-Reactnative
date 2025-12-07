@@ -1,7 +1,3 @@
-Here is a clean, professional, ready-to-publish **README.md** for your React Native **To-Do List App** (add + delete local items).
-It includes installation, features, screenshots section, folder structure, and usage.
-
----
 
 # 📱 React Native To-Do List App
 
